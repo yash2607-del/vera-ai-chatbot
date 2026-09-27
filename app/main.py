@@ -33,9 +33,15 @@ app.include_router(context_router, prefix="/v1", tags=["Context"])
 app.include_router(tick_router, prefix="/v1", tags=["Tick"])
 app.include_router(reply_router, prefix="/v1", tags=["Reply"])
 
-# Also root shortcuts if needed
-app.include_router(health_router, tags=["Health"])
-app.include_router(metadata_router, tags=["Metadata"])
+# Root route
+@app.get("/")
+def get_root():
+    return {
+        "status": "ok",
+        "service": settings.APP_NAME,
+        "docs": "/docs",
+        "health": "/healthz"
+    }
 
 if __name__ == "__main__":
     import uvicorn
