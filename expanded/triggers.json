@@ -1,0 +1,902 @@
+[
+  {
+    "trigger_id": "trig_search_spike_1",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 150,
+    "change": "+15%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_2",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 155,
+    "change": "+16%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_3",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 160,
+    "change": "+17%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_4",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 165,
+    "change": "+18%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_5",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 170,
+    "change": "+19%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_6",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 175,
+    "change": "+20%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_7",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 180,
+    "change": "+21%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_8",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 185,
+    "change": "+22%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_9",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 190,
+    "change": "+23%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_10",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 195,
+    "change": "+24%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_11",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 200,
+    "change": "+25%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_12",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 205,
+    "change": "+26%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_13",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 210,
+    "change": "+27%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_14",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 215,
+    "change": "+28%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_15",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 220,
+    "change": "+29%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_16",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 225,
+    "change": "+30%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_17",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 230,
+    "change": "+31%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_18",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 235,
+    "change": "+32%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_19",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 240,
+    "change": "+33%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_20",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 245,
+    "change": "+34%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_21",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 250,
+    "change": "+35%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_22",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 255,
+    "change": "+36%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_23",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 260,
+    "change": "+37%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_24",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 265,
+    "change": "+38%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_25",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 270,
+    "change": "+39%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_26",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 275,
+    "change": "+40%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_27",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 280,
+    "change": "+41%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_28",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 285,
+    "change": "+42%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_29",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 290,
+    "change": "+43%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_30",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 295,
+    "change": "+44%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_31",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 300,
+    "change": "+45%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_32",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 305,
+    "change": "+46%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_33",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 310,
+    "change": "+47%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_34",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 315,
+    "change": "+48%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_35",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 320,
+    "change": "+49%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_36",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 325,
+    "change": "+0%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_37",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 330,
+    "change": "+1%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_38",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 335,
+    "change": "+2%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_39",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 340,
+    "change": "+3%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_40",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 345,
+    "change": "+4%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_41",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 350,
+    "change": "+5%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_42",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 355,
+    "change": "+6%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_43",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 360,
+    "change": "+7%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_44",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 365,
+    "change": "+8%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_45",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 370,
+    "change": "+9%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_46",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 375,
+    "change": "+10%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_47",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 380,
+    "change": "+11%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_48",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 385,
+    "change": "+12%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_49",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 390,
+    "change": "+13%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_50",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 395,
+    "change": "+14%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_51",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 400,
+    "change": "+15%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_52",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 405,
+    "change": "+16%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_53",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 410,
+    "change": "+17%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_54",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 415,
+    "change": "+18%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_55",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 420,
+    "change": "+19%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_56",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 425,
+    "change": "+20%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_57",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 430,
+    "change": "+21%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_58",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 435,
+    "change": "+22%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_59",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 440,
+    "change": "+23%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_60",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 445,
+    "change": "+24%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_61",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 450,
+    "change": "+25%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_62",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 455,
+    "change": "+26%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_63",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 460,
+    "change": "+27%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_64",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 465,
+    "change": "+28%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_65",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 470,
+    "change": "+29%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_66",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 475,
+    "change": "+30%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_67",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 480,
+    "change": "+31%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_68",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 485,
+    "change": "+32%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_69",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 490,
+    "change": "+33%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_70",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 495,
+    "change": "+34%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_71",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 500,
+    "change": "+35%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_72",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 505,
+    "change": "+36%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_73",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 510,
+    "change": "+37%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_74",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 515,
+    "change": "+38%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_75",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 520,
+    "change": "+39%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_76",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 525,
+    "change": "+40%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_77",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 530,
+    "change": "+41%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_78",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 535,
+    "change": "+42%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_79",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 540,
+    "change": "+43%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_80",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 545,
+    "change": "+44%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_81",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 550,
+    "change": "+45%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_82",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 555,
+    "change": "+46%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_83",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 560,
+    "change": "+47%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_84",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 565,
+    "change": "+48%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_85",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 570,
+    "change": "+49%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_86",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 575,
+    "change": "+0%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_87",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 580,
+    "change": "+1%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_88",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 585,
+    "change": "+2%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_89",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 590,
+    "change": "+3%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_90",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 595,
+    "change": "+4%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_91",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 600,
+    "change": "+5%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_92",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 605,
+    "change": "+6%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_93",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 610,
+    "change": "+7%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_94",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 615,
+    "change": "+8%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_95",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 620,
+    "change": "+9%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  },
+  {
+    "trigger_id": "trig_search_spike_96",
+    "type": "SEARCH_SPIKE",
+    "metric": "searches",
+    "value": 625,
+    "change": "+10%",
+    "topic": "Dental Check Up",
+    "locality": "Indiranagar"
+  },
+  {
+    "trigger_id": "trig_performance_dip_97",
+    "type": "PERFORMANCE_DIP",
+    "metric": "revenue",
+    "value": 630,
+    "change": "+11%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Koramangala"
+  },
+  {
+    "trigger_id": "trig_festival_seasonal_98",
+    "type": "FESTIVAL_SEASONAL",
+    "metric": "revenue",
+    "value": 635,
+    "change": "+12%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "HSR Layout"
+  },
+  {
+    "trigger_id": "trig_customer_lapse_99",
+    "type": "CUSTOMER_LAPSE",
+    "metric": "revenue",
+    "value": 640,
+    "change": "+13%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Whitefield"
+  },
+  {
+    "trigger_id": "trig_research_intent_100",
+    "type": "RESEARCH_INTENT",
+    "metric": "revenue",
+    "value": 645,
+    "change": "+14%",
+    "topic": "Hair Spa & Haircut Combo",
+    "locality": "Jayanagar"
+  }
+]

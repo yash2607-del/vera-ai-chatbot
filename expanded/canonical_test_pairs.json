@@ -1,0 +1,1364 @@
+[
+  {
+    "test_id": "test_pair_1",
+    "merchant": {
+      "merchant_id": "m_dentists_100",
+      "name": "Apex Dental Clinic #1",
+      "vertical": "dentists",
+      "locality": "Indiranagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_dent_01",
+          "title": "Dental Check Up",
+          "original_price": 2999,
+          "discounted_price": 299,
+          "active": true
+        },
+        {
+          "offer_id": "off_dent_02",
+          "title": "Teeth Whitening",
+          "original_price": 8000,
+          "discounted_price": 4999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1000,
+        "searches_in_locality": 100,
+        "search_growth": "+20%",
+        "conversion_rate": "3.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_search_spike_1",
+      "type": "SEARCH_SPIKE",
+      "metric": "searches",
+      "value": 150,
+      "change": "+15%",
+      "topic": "Dental Check Up",
+      "locality": "Indiranagar"
+    },
+    "customer": {
+      "customer_id": "c_cust_500",
+      "name": "Customer_1",
+      "locality": "Indiranagar",
+      "relationship": "VIP Customer",
+      "status": "Inactive for 20 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "dentists",
+    "expected_signal": "SEARCH_SPIKE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_2",
+    "merchant": {
+      "merchant_id": "m_salons_101",
+      "name": "Glow & Style Salon #2",
+      "vertical": "salons",
+      "locality": "Koramangala",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_sal_01",
+          "title": "Hair Spa & Haircut Combo",
+          "original_price": 2500,
+          "discounted_price": 999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1050,
+        "searches_in_locality": 110,
+        "search_growth": "+21%",
+        "conversion_rate": "3.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_performance_dip_2",
+      "type": "PERFORMANCE_DIP",
+      "metric": "revenue",
+      "value": 155,
+      "change": "+16%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Koramangala"
+    },
+    "customer": null,
+    "expected_vertical": "salons",
+    "expected_signal": "PERFORMANCE_DIP",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_3",
+    "merchant": {
+      "merchant_id": "m_restaurants_102",
+      "name": "Truffle & Slice Bistro #3",
+      "vertical": "restaurants",
+      "locality": "HSR Layout",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_rest_01",
+          "title": "Buy 1 Get 1 Pizza",
+          "original_price": 600,
+          "discounted_price": 300,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1100,
+        "searches_in_locality": 120,
+        "search_growth": "+22%",
+        "conversion_rate": "4.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_festival_seasonal_3",
+      "type": "FESTIVAL_SEASONAL",
+      "metric": "revenue",
+      "value": 160,
+      "change": "+17%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "HSR Layout"
+    },
+    "customer": {
+      "customer_id": "c_cust_502",
+      "name": "Customer_3",
+      "locality": "HSR Layout",
+      "relationship": "Regular Member",
+      "status": "Inactive for 22 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "restaurants",
+    "expected_signal": "FESTIVAL_SEASONAL",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_4",
+    "merchant": {
+      "merchant_id": "m_gyms_103",
+      "name": "FitNation Gym #4",
+      "vertical": "gyms",
+      "locality": "Whitefield",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_gym_01",
+          "title": "3-Month Fitness Pass",
+          "original_price": 9000,
+          "discounted_price": 4499,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1150,
+        "searches_in_locality": 130,
+        "search_growth": "+23%",
+        "conversion_rate": "4.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_customer_lapse_4",
+      "type": "CUSTOMER_LAPSE",
+      "metric": "revenue",
+      "value": 165,
+      "change": "+18%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Whitefield"
+    },
+    "customer": null,
+    "expected_vertical": "gyms",
+    "expected_signal": "CUSTOMER_LAPSE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_5",
+    "merchant": {
+      "merchant_id": "m_pharmacies_104",
+      "name": "HealthFirst Pharmacy #5",
+      "vertical": "pharmacies",
+      "locality": "Jayanagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_pharm_01",
+          "title": "Monsoon Immunity Booster Kit",
+          "original_price": 1200,
+          "discounted_price": 799,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1200,
+        "searches_in_locality": 140,
+        "search_growth": "+24%",
+        "conversion_rate": "5.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_research_intent_5",
+      "type": "RESEARCH_INTENT",
+      "metric": "revenue",
+      "value": 170,
+      "change": "+19%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Jayanagar"
+    },
+    "customer": {
+      "customer_id": "c_cust_504",
+      "name": "Customer_5",
+      "locality": "Jayanagar",
+      "relationship": "Regular Member",
+      "status": "Inactive for 24 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "pharmacies",
+    "expected_signal": "RESEARCH_INTENT",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_6",
+    "merchant": {
+      "merchant_id": "m_dentists_105",
+      "name": "Apex Dental Clinic #6",
+      "vertical": "dentists",
+      "locality": "Indiranagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_dent_01",
+          "title": "Dental Check Up",
+          "original_price": 2999,
+          "discounted_price": 299,
+          "active": true
+        },
+        {
+          "offer_id": "off_dent_02",
+          "title": "Teeth Whitening",
+          "original_price": 8000,
+          "discounted_price": 4999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1250,
+        "searches_in_locality": 150,
+        "search_growth": "+25%",
+        "conversion_rate": "3.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_search_spike_6",
+      "type": "SEARCH_SPIKE",
+      "metric": "searches",
+      "value": 175,
+      "change": "+20%",
+      "topic": "Dental Check Up",
+      "locality": "Indiranagar"
+    },
+    "customer": null,
+    "expected_vertical": "dentists",
+    "expected_signal": "SEARCH_SPIKE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_7",
+    "merchant": {
+      "merchant_id": "m_salons_106",
+      "name": "Glow & Style Salon #7",
+      "vertical": "salons",
+      "locality": "Koramangala",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_sal_01",
+          "title": "Hair Spa & Haircut Combo",
+          "original_price": 2500,
+          "discounted_price": 999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1300,
+        "searches_in_locality": 160,
+        "search_growth": "+26%",
+        "conversion_rate": "3.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_performance_dip_7",
+      "type": "PERFORMANCE_DIP",
+      "metric": "revenue",
+      "value": 180,
+      "change": "+21%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Koramangala"
+    },
+    "customer": {
+      "customer_id": "c_cust_506",
+      "name": "Customer_7",
+      "locality": "Koramangala",
+      "relationship": "VIP Customer",
+      "status": "Inactive for 26 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "salons",
+    "expected_signal": "PERFORMANCE_DIP",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_8",
+    "merchant": {
+      "merchant_id": "m_restaurants_107",
+      "name": "Truffle & Slice Bistro #8",
+      "vertical": "restaurants",
+      "locality": "HSR Layout",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_rest_01",
+          "title": "Buy 1 Get 1 Pizza",
+          "original_price": 600,
+          "discounted_price": 300,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1350,
+        "searches_in_locality": 170,
+        "search_growth": "+27%",
+        "conversion_rate": "4.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_festival_seasonal_8",
+      "type": "FESTIVAL_SEASONAL",
+      "metric": "revenue",
+      "value": 185,
+      "change": "+22%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "HSR Layout"
+    },
+    "customer": null,
+    "expected_vertical": "restaurants",
+    "expected_signal": "FESTIVAL_SEASONAL",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_9",
+    "merchant": {
+      "merchant_id": "m_gyms_108",
+      "name": "FitNation Gym #9",
+      "vertical": "gyms",
+      "locality": "Whitefield",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_gym_01",
+          "title": "3-Month Fitness Pass",
+          "original_price": 9000,
+          "discounted_price": 4499,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1400,
+        "searches_in_locality": 180,
+        "search_growth": "+28%",
+        "conversion_rate": "4.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_customer_lapse_9",
+      "type": "CUSTOMER_LAPSE",
+      "metric": "revenue",
+      "value": 190,
+      "change": "+23%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Whitefield"
+    },
+    "customer": {
+      "customer_id": "c_cust_508",
+      "name": "Customer_9",
+      "locality": "Whitefield",
+      "relationship": "Regular Member",
+      "status": "Inactive for 28 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "gyms",
+    "expected_signal": "CUSTOMER_LAPSE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_10",
+    "merchant": {
+      "merchant_id": "m_pharmacies_109",
+      "name": "HealthFirst Pharmacy #10",
+      "vertical": "pharmacies",
+      "locality": "Jayanagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_pharm_01",
+          "title": "Monsoon Immunity Booster Kit",
+          "original_price": 1200,
+          "discounted_price": 799,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1450,
+        "searches_in_locality": 190,
+        "search_growth": "+29%",
+        "conversion_rate": "5.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_research_intent_10",
+      "type": "RESEARCH_INTENT",
+      "metric": "revenue",
+      "value": 195,
+      "change": "+24%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Jayanagar"
+    },
+    "customer": null,
+    "expected_vertical": "pharmacies",
+    "expected_signal": "RESEARCH_INTENT",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_11",
+    "merchant": {
+      "merchant_id": "m_dentists_110",
+      "name": "Apex Dental Clinic #11",
+      "vertical": "dentists",
+      "locality": "Indiranagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_dent_01",
+          "title": "Dental Check Up",
+          "original_price": 2999,
+          "discounted_price": 299,
+          "active": true
+        },
+        {
+          "offer_id": "off_dent_02",
+          "title": "Teeth Whitening",
+          "original_price": 8000,
+          "discounted_price": 4999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1500,
+        "searches_in_locality": 200,
+        "search_growth": "+30%",
+        "conversion_rate": "3.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_search_spike_11",
+      "type": "SEARCH_SPIKE",
+      "metric": "searches",
+      "value": 200,
+      "change": "+25%",
+      "topic": "Dental Check Up",
+      "locality": "Indiranagar"
+    },
+    "customer": {
+      "customer_id": "c_cust_510",
+      "name": "Customer_11",
+      "locality": "Indiranagar",
+      "relationship": "Regular Member",
+      "status": "Inactive for 30 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "dentists",
+    "expected_signal": "SEARCH_SPIKE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_12",
+    "merchant": {
+      "merchant_id": "m_salons_111",
+      "name": "Glow & Style Salon #12",
+      "vertical": "salons",
+      "locality": "Koramangala",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_sal_01",
+          "title": "Hair Spa & Haircut Combo",
+          "original_price": 2500,
+          "discounted_price": 999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1550,
+        "searches_in_locality": 210,
+        "search_growth": "+31%",
+        "conversion_rate": "3.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_performance_dip_12",
+      "type": "PERFORMANCE_DIP",
+      "metric": "revenue",
+      "value": 205,
+      "change": "+26%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Koramangala"
+    },
+    "customer": null,
+    "expected_vertical": "salons",
+    "expected_signal": "PERFORMANCE_DIP",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_13",
+    "merchant": {
+      "merchant_id": "m_restaurants_112",
+      "name": "Truffle & Slice Bistro #13",
+      "vertical": "restaurants",
+      "locality": "HSR Layout",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_rest_01",
+          "title": "Buy 1 Get 1 Pizza",
+          "original_price": 600,
+          "discounted_price": 300,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1600,
+        "searches_in_locality": 220,
+        "search_growth": "+32%",
+        "conversion_rate": "4.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_festival_seasonal_13",
+      "type": "FESTIVAL_SEASONAL",
+      "metric": "revenue",
+      "value": 210,
+      "change": "+27%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "HSR Layout"
+    },
+    "customer": {
+      "customer_id": "c_cust_512",
+      "name": "Customer_13",
+      "locality": "HSR Layout",
+      "relationship": "VIP Customer",
+      "status": "Inactive for 32 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "restaurants",
+    "expected_signal": "FESTIVAL_SEASONAL",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_14",
+    "merchant": {
+      "merchant_id": "m_gyms_113",
+      "name": "FitNation Gym #14",
+      "vertical": "gyms",
+      "locality": "Whitefield",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_gym_01",
+          "title": "3-Month Fitness Pass",
+          "original_price": 9000,
+          "discounted_price": 4499,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1650,
+        "searches_in_locality": 230,
+        "search_growth": "+33%",
+        "conversion_rate": "4.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_customer_lapse_14",
+      "type": "CUSTOMER_LAPSE",
+      "metric": "revenue",
+      "value": 215,
+      "change": "+28%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Whitefield"
+    },
+    "customer": null,
+    "expected_vertical": "gyms",
+    "expected_signal": "CUSTOMER_LAPSE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_15",
+    "merchant": {
+      "merchant_id": "m_pharmacies_114",
+      "name": "HealthFirst Pharmacy #15",
+      "vertical": "pharmacies",
+      "locality": "Jayanagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_pharm_01",
+          "title": "Monsoon Immunity Booster Kit",
+          "original_price": 1200,
+          "discounted_price": 799,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1700,
+        "searches_in_locality": 240,
+        "search_growth": "+34%",
+        "conversion_rate": "5.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_research_intent_15",
+      "type": "RESEARCH_INTENT",
+      "metric": "revenue",
+      "value": 220,
+      "change": "+29%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Jayanagar"
+    },
+    "customer": {
+      "customer_id": "c_cust_514",
+      "name": "Customer_15",
+      "locality": "Jayanagar",
+      "relationship": "Regular Member",
+      "status": "Inactive for 34 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "pharmacies",
+    "expected_signal": "RESEARCH_INTENT",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_16",
+    "merchant": {
+      "merchant_id": "m_dentists_115",
+      "name": "Apex Dental Clinic #16",
+      "vertical": "dentists",
+      "locality": "Indiranagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_dent_01",
+          "title": "Dental Check Up",
+          "original_price": 2999,
+          "discounted_price": 299,
+          "active": true
+        },
+        {
+          "offer_id": "off_dent_02",
+          "title": "Teeth Whitening",
+          "original_price": 8000,
+          "discounted_price": 4999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1750,
+        "searches_in_locality": 250,
+        "search_growth": "+35%",
+        "conversion_rate": "3.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_search_spike_16",
+      "type": "SEARCH_SPIKE",
+      "metric": "searches",
+      "value": 225,
+      "change": "+30%",
+      "topic": "Dental Check Up",
+      "locality": "Indiranagar"
+    },
+    "customer": null,
+    "expected_vertical": "dentists",
+    "expected_signal": "SEARCH_SPIKE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_17",
+    "merchant": {
+      "merchant_id": "m_salons_116",
+      "name": "Glow & Style Salon #17",
+      "vertical": "salons",
+      "locality": "Koramangala",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_sal_01",
+          "title": "Hair Spa & Haircut Combo",
+          "original_price": 2500,
+          "discounted_price": 999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1800,
+        "searches_in_locality": 260,
+        "search_growth": "+36%",
+        "conversion_rate": "3.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_performance_dip_17",
+      "type": "PERFORMANCE_DIP",
+      "metric": "revenue",
+      "value": 230,
+      "change": "+31%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Koramangala"
+    },
+    "customer": {
+      "customer_id": "c_cust_516",
+      "name": "Customer_17",
+      "locality": "Koramangala",
+      "relationship": "Regular Member",
+      "status": "Inactive for 36 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "salons",
+    "expected_signal": "PERFORMANCE_DIP",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_18",
+    "merchant": {
+      "merchant_id": "m_restaurants_117",
+      "name": "Truffle & Slice Bistro #18",
+      "vertical": "restaurants",
+      "locality": "HSR Layout",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_rest_01",
+          "title": "Buy 1 Get 1 Pizza",
+          "original_price": 600,
+          "discounted_price": 300,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1850,
+        "searches_in_locality": 270,
+        "search_growth": "+37%",
+        "conversion_rate": "4.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_festival_seasonal_18",
+      "type": "FESTIVAL_SEASONAL",
+      "metric": "revenue",
+      "value": 235,
+      "change": "+32%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "HSR Layout"
+    },
+    "customer": null,
+    "expected_vertical": "restaurants",
+    "expected_signal": "FESTIVAL_SEASONAL",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_19",
+    "merchant": {
+      "merchant_id": "m_gyms_118",
+      "name": "FitNation Gym #19",
+      "vertical": "gyms",
+      "locality": "Whitefield",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_gym_01",
+          "title": "3-Month Fitness Pass",
+          "original_price": 9000,
+          "discounted_price": 4499,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1900,
+        "searches_in_locality": 280,
+        "search_growth": "+38%",
+        "conversion_rate": "4.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_customer_lapse_19",
+      "type": "CUSTOMER_LAPSE",
+      "metric": "revenue",
+      "value": 240,
+      "change": "+33%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Whitefield"
+    },
+    "customer": {
+      "customer_id": "c_cust_518",
+      "name": "Customer_19",
+      "locality": "Whitefield",
+      "relationship": "VIP Customer",
+      "status": "Inactive for 38 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "gyms",
+    "expected_signal": "CUSTOMER_LAPSE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_20",
+    "merchant": {
+      "merchant_id": "m_pharmacies_119",
+      "name": "HealthFirst Pharmacy #20",
+      "vertical": "pharmacies",
+      "locality": "Jayanagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_pharm_01",
+          "title": "Monsoon Immunity Booster Kit",
+          "original_price": 1200,
+          "discounted_price": 799,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 1950,
+        "searches_in_locality": 290,
+        "search_growth": "+39%",
+        "conversion_rate": "5.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_research_intent_20",
+      "type": "RESEARCH_INTENT",
+      "metric": "revenue",
+      "value": 245,
+      "change": "+34%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Jayanagar"
+    },
+    "customer": null,
+    "expected_vertical": "pharmacies",
+    "expected_signal": "RESEARCH_INTENT",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_21",
+    "merchant": {
+      "merchant_id": "m_dentists_120",
+      "name": "Apex Dental Clinic #21",
+      "vertical": "dentists",
+      "locality": "Indiranagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_dent_01",
+          "title": "Dental Check Up",
+          "original_price": 2999,
+          "discounted_price": 299,
+          "active": true
+        },
+        {
+          "offer_id": "off_dent_02",
+          "title": "Teeth Whitening",
+          "original_price": 8000,
+          "discounted_price": 4999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 2000,
+        "searches_in_locality": 300,
+        "search_growth": "+40%",
+        "conversion_rate": "3.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_search_spike_21",
+      "type": "SEARCH_SPIKE",
+      "metric": "searches",
+      "value": 250,
+      "change": "+35%",
+      "topic": "Dental Check Up",
+      "locality": "Indiranagar"
+    },
+    "customer": {
+      "customer_id": "c_cust_520",
+      "name": "Customer_21",
+      "locality": "Indiranagar",
+      "relationship": "Regular Member",
+      "status": "Inactive for 40 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "dentists",
+    "expected_signal": "SEARCH_SPIKE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_22",
+    "merchant": {
+      "merchant_id": "m_salons_121",
+      "name": "Glow & Style Salon #22",
+      "vertical": "salons",
+      "locality": "Koramangala",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_sal_01",
+          "title": "Hair Spa & Haircut Combo",
+          "original_price": 2500,
+          "discounted_price": 999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 2050,
+        "searches_in_locality": 310,
+        "search_growth": "+41%",
+        "conversion_rate": "3.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_performance_dip_22",
+      "type": "PERFORMANCE_DIP",
+      "metric": "revenue",
+      "value": 255,
+      "change": "+36%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Koramangala"
+    },
+    "customer": null,
+    "expected_vertical": "salons",
+    "expected_signal": "PERFORMANCE_DIP",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_23",
+    "merchant": {
+      "merchant_id": "m_restaurants_122",
+      "name": "Truffle & Slice Bistro #23",
+      "vertical": "restaurants",
+      "locality": "HSR Layout",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_rest_01",
+          "title": "Buy 1 Get 1 Pizza",
+          "original_price": 600,
+          "discounted_price": 300,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 2100,
+        "searches_in_locality": 320,
+        "search_growth": "+42%",
+        "conversion_rate": "4.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_festival_seasonal_23",
+      "type": "FESTIVAL_SEASONAL",
+      "metric": "revenue",
+      "value": 260,
+      "change": "+37%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "HSR Layout"
+    },
+    "customer": {
+      "customer_id": "c_cust_522",
+      "name": "Customer_23",
+      "locality": "HSR Layout",
+      "relationship": "Regular Member",
+      "status": "Inactive for 42 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "restaurants",
+    "expected_signal": "FESTIVAL_SEASONAL",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_24",
+    "merchant": {
+      "merchant_id": "m_gyms_123",
+      "name": "FitNation Gym #24",
+      "vertical": "gyms",
+      "locality": "Whitefield",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_gym_01",
+          "title": "3-Month Fitness Pass",
+          "original_price": 9000,
+          "discounted_price": 4499,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 2150,
+        "searches_in_locality": 330,
+        "search_growth": "+43%",
+        "conversion_rate": "4.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_customer_lapse_24",
+      "type": "CUSTOMER_LAPSE",
+      "metric": "revenue",
+      "value": 265,
+      "change": "+38%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Whitefield"
+    },
+    "customer": null,
+    "expected_vertical": "gyms",
+    "expected_signal": "CUSTOMER_LAPSE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_25",
+    "merchant": {
+      "merchant_id": "m_pharmacies_124",
+      "name": "HealthFirst Pharmacy #25",
+      "vertical": "pharmacies",
+      "locality": "Jayanagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_pharm_01",
+          "title": "Monsoon Immunity Booster Kit",
+          "original_price": 1200,
+          "discounted_price": 799,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 2200,
+        "searches_in_locality": 340,
+        "search_growth": "+44%",
+        "conversion_rate": "5.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_research_intent_25",
+      "type": "RESEARCH_INTENT",
+      "metric": "revenue",
+      "value": 270,
+      "change": "+39%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Jayanagar"
+    },
+    "customer": {
+      "customer_id": "c_cust_524",
+      "name": "Customer_25",
+      "locality": "Jayanagar",
+      "relationship": "VIP Customer",
+      "status": "Inactive for 44 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "pharmacies",
+    "expected_signal": "RESEARCH_INTENT",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_26",
+    "merchant": {
+      "merchant_id": "m_dentists_125",
+      "name": "Apex Dental Clinic #26",
+      "vertical": "dentists",
+      "locality": "Indiranagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_dent_01",
+          "title": "Dental Check Up",
+          "original_price": 2999,
+          "discounted_price": 299,
+          "active": true
+        },
+        {
+          "offer_id": "off_dent_02",
+          "title": "Teeth Whitening",
+          "original_price": 8000,
+          "discounted_price": 4999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 2250,
+        "searches_in_locality": 350,
+        "search_growth": "+45%",
+        "conversion_rate": "3.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_search_spike_26",
+      "type": "SEARCH_SPIKE",
+      "metric": "searches",
+      "value": 275,
+      "change": "+40%",
+      "topic": "Dental Check Up",
+      "locality": "Indiranagar"
+    },
+    "customer": null,
+    "expected_vertical": "dentists",
+    "expected_signal": "SEARCH_SPIKE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_27",
+    "merchant": {
+      "merchant_id": "m_salons_126",
+      "name": "Glow & Style Salon #27",
+      "vertical": "salons",
+      "locality": "Koramangala",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_sal_01",
+          "title": "Hair Spa & Haircut Combo",
+          "original_price": 2500,
+          "discounted_price": 999,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 2300,
+        "searches_in_locality": 360,
+        "search_growth": "+46%",
+        "conversion_rate": "3.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_performance_dip_27",
+      "type": "PERFORMANCE_DIP",
+      "metric": "revenue",
+      "value": 280,
+      "change": "+41%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Koramangala"
+    },
+    "customer": {
+      "customer_id": "c_cust_526",
+      "name": "Customer_27",
+      "locality": "Koramangala",
+      "relationship": "Regular Member",
+      "status": "Inactive for 46 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "salons",
+    "expected_signal": "PERFORMANCE_DIP",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_28",
+    "merchant": {
+      "merchant_id": "m_restaurants_127",
+      "name": "Truffle & Slice Bistro #28",
+      "vertical": "restaurants",
+      "locality": "HSR Layout",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_rest_01",
+          "title": "Buy 1 Get 1 Pizza",
+          "original_price": 600,
+          "discounted_price": 300,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 2350,
+        "searches_in_locality": 370,
+        "search_growth": "+47%",
+        "conversion_rate": "4.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_festival_seasonal_28",
+      "type": "FESTIVAL_SEASONAL",
+      "metric": "revenue",
+      "value": 285,
+      "change": "+42%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "HSR Layout"
+    },
+    "customer": null,
+    "expected_vertical": "restaurants",
+    "expected_signal": "FESTIVAL_SEASONAL",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_29",
+    "merchant": {
+      "merchant_id": "m_gyms_128",
+      "name": "FitNation Gym #29",
+      "vertical": "gyms",
+      "locality": "Whitefield",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_gym_01",
+          "title": "3-Month Fitness Pass",
+          "original_price": 9000,
+          "discounted_price": 4499,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 2400,
+        "searches_in_locality": 380,
+        "search_growth": "+48%",
+        "conversion_rate": "4.5%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_customer_lapse_29",
+      "type": "CUSTOMER_LAPSE",
+      "metric": "revenue",
+      "value": 290,
+      "change": "+43%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Whitefield"
+    },
+    "customer": {
+      "customer_id": "c_cust_528",
+      "name": "Customer_29",
+      "locality": "Whitefield",
+      "relationship": "Regular Member",
+      "status": "Inactive for 48 days",
+      "preferences": [
+        "Dental Whitening",
+        "Pedicure",
+        "Italian Dining"
+      ],
+      "consent": true
+    },
+    "expected_vertical": "gyms",
+    "expected_signal": "CUSTOMER_LAPSE",
+    "expected_min_score": 7.0
+  },
+  {
+    "test_id": "test_pair_30",
+    "merchant": {
+      "merchant_id": "m_pharmacies_129",
+      "name": "HealthFirst Pharmacy #30",
+      "vertical": "pharmacies",
+      "locality": "Jayanagar",
+      "city": "Bengaluru",
+      "offers": [
+        {
+          "offer_id": "off_pharm_01",
+          "title": "Monsoon Immunity Booster Kit",
+          "original_price": 1200,
+          "discounted_price": 799,
+          "active": true
+        }
+      ],
+      "metrics": {
+        "weekly_views": 2450,
+        "searches_in_locality": 390,
+        "search_growth": "+49%",
+        "conversion_rate": "5.0%"
+      }
+    },
+    "trigger": {
+      "trigger_id": "trig_research_intent_30",
+      "type": "RESEARCH_INTENT",
+      "metric": "revenue",
+      "value": 295,
+      "change": "+44%",
+      "topic": "Hair Spa & Haircut Combo",
+      "locality": "Jayanagar"
+    },
+    "customer": null,
+    "expected_vertical": "pharmacies",
+    "expected_signal": "RESEARCH_INTENT",
+    "expected_min_score": 7.0
+  }
+]

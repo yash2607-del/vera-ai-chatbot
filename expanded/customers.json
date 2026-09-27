@@ -1,0 +1,2502 @@
+[
+  {
+    "customer_id": "c_cust_500",
+    "name": "Customer_1",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 20 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_501",
+    "name": "Customer_2",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_502",
+    "name": "Customer_3",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 22 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_503",
+    "name": "Customer_4",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_504",
+    "name": "Customer_5",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 24 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_505",
+    "name": "Customer_6",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_506",
+    "name": "Customer_7",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 26 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_507",
+    "name": "Customer_8",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_508",
+    "name": "Customer_9",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 28 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_509",
+    "name": "Customer_10",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_510",
+    "name": "Customer_11",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 30 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_511",
+    "name": "Customer_12",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_512",
+    "name": "Customer_13",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 32 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_513",
+    "name": "Customer_14",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_514",
+    "name": "Customer_15",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 34 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_515",
+    "name": "Customer_16",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_516",
+    "name": "Customer_17",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 36 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_517",
+    "name": "Customer_18",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_518",
+    "name": "Customer_19",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 38 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_519",
+    "name": "Customer_20",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_520",
+    "name": "Customer_21",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 40 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_521",
+    "name": "Customer_22",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_522",
+    "name": "Customer_23",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 42 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_523",
+    "name": "Customer_24",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_524",
+    "name": "Customer_25",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 44 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_525",
+    "name": "Customer_26",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_526",
+    "name": "Customer_27",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 46 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_527",
+    "name": "Customer_28",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_528",
+    "name": "Customer_29",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 48 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_529",
+    "name": "Customer_30",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_530",
+    "name": "Customer_31",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 20 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_531",
+    "name": "Customer_32",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_532",
+    "name": "Customer_33",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 22 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_533",
+    "name": "Customer_34",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_534",
+    "name": "Customer_35",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 24 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_535",
+    "name": "Customer_36",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_536",
+    "name": "Customer_37",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 26 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_537",
+    "name": "Customer_38",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_538",
+    "name": "Customer_39",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 28 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_539",
+    "name": "Customer_40",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_540",
+    "name": "Customer_41",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 30 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_541",
+    "name": "Customer_42",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_542",
+    "name": "Customer_43",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 32 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_543",
+    "name": "Customer_44",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_544",
+    "name": "Customer_45",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 34 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_545",
+    "name": "Customer_46",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_546",
+    "name": "Customer_47",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 36 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_547",
+    "name": "Customer_48",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_548",
+    "name": "Customer_49",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 38 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_549",
+    "name": "Customer_50",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_550",
+    "name": "Customer_51",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 40 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_551",
+    "name": "Customer_52",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_552",
+    "name": "Customer_53",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 42 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_553",
+    "name": "Customer_54",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_554",
+    "name": "Customer_55",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 44 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_555",
+    "name": "Customer_56",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_556",
+    "name": "Customer_57",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 46 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_557",
+    "name": "Customer_58",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_558",
+    "name": "Customer_59",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 48 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_559",
+    "name": "Customer_60",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_560",
+    "name": "Customer_61",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 20 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_561",
+    "name": "Customer_62",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_562",
+    "name": "Customer_63",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 22 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_563",
+    "name": "Customer_64",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_564",
+    "name": "Customer_65",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 24 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_565",
+    "name": "Customer_66",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_566",
+    "name": "Customer_67",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 26 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_567",
+    "name": "Customer_68",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_568",
+    "name": "Customer_69",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 28 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_569",
+    "name": "Customer_70",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_570",
+    "name": "Customer_71",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 30 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_571",
+    "name": "Customer_72",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_572",
+    "name": "Customer_73",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 32 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_573",
+    "name": "Customer_74",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_574",
+    "name": "Customer_75",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 34 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_575",
+    "name": "Customer_76",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_576",
+    "name": "Customer_77",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 36 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_577",
+    "name": "Customer_78",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_578",
+    "name": "Customer_79",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 38 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_579",
+    "name": "Customer_80",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_580",
+    "name": "Customer_81",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 40 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_581",
+    "name": "Customer_82",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_582",
+    "name": "Customer_83",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 42 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_583",
+    "name": "Customer_84",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_584",
+    "name": "Customer_85",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 44 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_585",
+    "name": "Customer_86",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_586",
+    "name": "Customer_87",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 46 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_587",
+    "name": "Customer_88",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_588",
+    "name": "Customer_89",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 48 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_589",
+    "name": "Customer_90",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_590",
+    "name": "Customer_91",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 20 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_591",
+    "name": "Customer_92",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_592",
+    "name": "Customer_93",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 22 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_593",
+    "name": "Customer_94",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_594",
+    "name": "Customer_95",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 24 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_595",
+    "name": "Customer_96",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_596",
+    "name": "Customer_97",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 26 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_597",
+    "name": "Customer_98",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_598",
+    "name": "Customer_99",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 28 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_599",
+    "name": "Customer_100",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_600",
+    "name": "Customer_101",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 30 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_601",
+    "name": "Customer_102",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_602",
+    "name": "Customer_103",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 32 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_603",
+    "name": "Customer_104",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_604",
+    "name": "Customer_105",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 34 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_605",
+    "name": "Customer_106",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_606",
+    "name": "Customer_107",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 36 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_607",
+    "name": "Customer_108",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_608",
+    "name": "Customer_109",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 38 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_609",
+    "name": "Customer_110",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_610",
+    "name": "Customer_111",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 40 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_611",
+    "name": "Customer_112",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_612",
+    "name": "Customer_113",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 42 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_613",
+    "name": "Customer_114",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_614",
+    "name": "Customer_115",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 44 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_615",
+    "name": "Customer_116",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_616",
+    "name": "Customer_117",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 46 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_617",
+    "name": "Customer_118",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_618",
+    "name": "Customer_119",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 48 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_619",
+    "name": "Customer_120",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_620",
+    "name": "Customer_121",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 20 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_621",
+    "name": "Customer_122",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_622",
+    "name": "Customer_123",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 22 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_623",
+    "name": "Customer_124",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_624",
+    "name": "Customer_125",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 24 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_625",
+    "name": "Customer_126",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_626",
+    "name": "Customer_127",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 26 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_627",
+    "name": "Customer_128",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_628",
+    "name": "Customer_129",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 28 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_629",
+    "name": "Customer_130",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_630",
+    "name": "Customer_131",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 30 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_631",
+    "name": "Customer_132",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_632",
+    "name": "Customer_133",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 32 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_633",
+    "name": "Customer_134",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_634",
+    "name": "Customer_135",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 34 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_635",
+    "name": "Customer_136",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_636",
+    "name": "Customer_137",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 36 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_637",
+    "name": "Customer_138",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_638",
+    "name": "Customer_139",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 38 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_639",
+    "name": "Customer_140",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_640",
+    "name": "Customer_141",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 40 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_641",
+    "name": "Customer_142",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_642",
+    "name": "Customer_143",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 42 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_643",
+    "name": "Customer_144",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_644",
+    "name": "Customer_145",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 44 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_645",
+    "name": "Customer_146",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_646",
+    "name": "Customer_147",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 46 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_647",
+    "name": "Customer_148",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_648",
+    "name": "Customer_149",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 48 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_649",
+    "name": "Customer_150",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_650",
+    "name": "Customer_151",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 20 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_651",
+    "name": "Customer_152",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_652",
+    "name": "Customer_153",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 22 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_653",
+    "name": "Customer_154",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_654",
+    "name": "Customer_155",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 24 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_655",
+    "name": "Customer_156",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_656",
+    "name": "Customer_157",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 26 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_657",
+    "name": "Customer_158",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_658",
+    "name": "Customer_159",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 28 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_659",
+    "name": "Customer_160",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_660",
+    "name": "Customer_161",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 30 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_661",
+    "name": "Customer_162",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_662",
+    "name": "Customer_163",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 32 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_663",
+    "name": "Customer_164",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_664",
+    "name": "Customer_165",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 34 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_665",
+    "name": "Customer_166",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_666",
+    "name": "Customer_167",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 36 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_667",
+    "name": "Customer_168",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_668",
+    "name": "Customer_169",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 38 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_669",
+    "name": "Customer_170",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_670",
+    "name": "Customer_171",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 40 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_671",
+    "name": "Customer_172",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_672",
+    "name": "Customer_173",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 42 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_673",
+    "name": "Customer_174",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_674",
+    "name": "Customer_175",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 44 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_675",
+    "name": "Customer_176",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_676",
+    "name": "Customer_177",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 46 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_677",
+    "name": "Customer_178",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_678",
+    "name": "Customer_179",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 48 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_679",
+    "name": "Customer_180",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_680",
+    "name": "Customer_181",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 20 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_681",
+    "name": "Customer_182",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_682",
+    "name": "Customer_183",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Inactive for 22 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_683",
+    "name": "Customer_184",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_684",
+    "name": "Customer_185",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 24 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_685",
+    "name": "Customer_186",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_686",
+    "name": "Customer_187",
+    "locality": "Koramangala",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 26 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_687",
+    "name": "Customer_188",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_688",
+    "name": "Customer_189",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Inactive for 28 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_689",
+    "name": "Customer_190",
+    "locality": "Jayanagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_690",
+    "name": "Customer_191",
+    "locality": "Indiranagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 30 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_691",
+    "name": "Customer_192",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_692",
+    "name": "Customer_193",
+    "locality": "HSR Layout",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 32 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_693",
+    "name": "Customer_194",
+    "locality": "Whitefield",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_694",
+    "name": "Customer_195",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Inactive for 34 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_695",
+    "name": "Customer_196",
+    "locality": "Indiranagar",
+    "relationship": "VIP Customer",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_696",
+    "name": "Customer_197",
+    "locality": "Koramangala",
+    "relationship": "Regular Member",
+    "status": "Inactive for 36 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_697",
+    "name": "Customer_198",
+    "locality": "HSR Layout",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_698",
+    "name": "Customer_199",
+    "locality": "Whitefield",
+    "relationship": "VIP Customer",
+    "status": "Inactive for 38 days",
+    "preferences": [
+      "Dental Whitening",
+      "Pedicure",
+      "Italian Dining"
+    ],
+    "consent": true
+  },
+  {
+    "customer_id": "c_cust_699",
+    "name": "Customer_200",
+    "locality": "Jayanagar",
+    "relationship": "Regular Member",
+    "status": "Active member",
+    "preferences": [
+      "Haircut",
+      "Gym Pass"
+    ],
+    "consent": true
+  }
+]

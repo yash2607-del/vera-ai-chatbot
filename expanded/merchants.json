@@ -1,0 +1,1172 @@
+[
+  {
+    "merchant_id": "m_dentists_100",
+    "name": "Apex Dental Clinic #1",
+    "vertical": "dentists",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_dent_01",
+        "title": "Dental Check Up",
+        "original_price": 2999,
+        "discounted_price": 299,
+        "active": true
+      },
+      {
+        "offer_id": "off_dent_02",
+        "title": "Teeth Whitening",
+        "original_price": 8000,
+        "discounted_price": 4999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1000,
+      "searches_in_locality": 100,
+      "search_growth": "+20%",
+      "conversion_rate": "3.0%"
+    }
+  },
+  {
+    "merchant_id": "m_salons_101",
+    "name": "Glow & Style Salon #2",
+    "vertical": "salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_sal_01",
+        "title": "Hair Spa & Haircut Combo",
+        "original_price": 2500,
+        "discounted_price": 999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1050,
+      "searches_in_locality": 110,
+      "search_growth": "+21%",
+      "conversion_rate": "3.5%"
+    }
+  },
+  {
+    "merchant_id": "m_restaurants_102",
+    "name": "Truffle & Slice Bistro #3",
+    "vertical": "restaurants",
+    "locality": "HSR Layout",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_rest_01",
+        "title": "Buy 1 Get 1 Pizza",
+        "original_price": 600,
+        "discounted_price": 300,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1100,
+      "searches_in_locality": 120,
+      "search_growth": "+22%",
+      "conversion_rate": "4.0%"
+    }
+  },
+  {
+    "merchant_id": "m_gyms_103",
+    "name": "FitNation Gym #4",
+    "vertical": "gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_gym_01",
+        "title": "3-Month Fitness Pass",
+        "original_price": 9000,
+        "discounted_price": 4499,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1150,
+      "searches_in_locality": 130,
+      "search_growth": "+23%",
+      "conversion_rate": "4.5%"
+    }
+  },
+  {
+    "merchant_id": "m_pharmacies_104",
+    "name": "HealthFirst Pharmacy #5",
+    "vertical": "pharmacies",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_pharm_01",
+        "title": "Monsoon Immunity Booster Kit",
+        "original_price": 1200,
+        "discounted_price": 799,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1200,
+      "searches_in_locality": 140,
+      "search_growth": "+24%",
+      "conversion_rate": "5.0%"
+    }
+  },
+  {
+    "merchant_id": "m_dentists_105",
+    "name": "Apex Dental Clinic #6",
+    "vertical": "dentists",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_dent_01",
+        "title": "Dental Check Up",
+        "original_price": 2999,
+        "discounted_price": 299,
+        "active": true
+      },
+      {
+        "offer_id": "off_dent_02",
+        "title": "Teeth Whitening",
+        "original_price": 8000,
+        "discounted_price": 4999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1250,
+      "searches_in_locality": 150,
+      "search_growth": "+25%",
+      "conversion_rate": "3.0%"
+    }
+  },
+  {
+    "merchant_id": "m_salons_106",
+    "name": "Glow & Style Salon #7",
+    "vertical": "salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_sal_01",
+        "title": "Hair Spa & Haircut Combo",
+        "original_price": 2500,
+        "discounted_price": 999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1300,
+      "searches_in_locality": 160,
+      "search_growth": "+26%",
+      "conversion_rate": "3.5%"
+    }
+  },
+  {
+    "merchant_id": "m_restaurants_107",
+    "name": "Truffle & Slice Bistro #8",
+    "vertical": "restaurants",
+    "locality": "HSR Layout",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_rest_01",
+        "title": "Buy 1 Get 1 Pizza",
+        "original_price": 600,
+        "discounted_price": 300,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1350,
+      "searches_in_locality": 170,
+      "search_growth": "+27%",
+      "conversion_rate": "4.0%"
+    }
+  },
+  {
+    "merchant_id": "m_gyms_108",
+    "name": "FitNation Gym #9",
+    "vertical": "gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_gym_01",
+        "title": "3-Month Fitness Pass",
+        "original_price": 9000,
+        "discounted_price": 4499,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1400,
+      "searches_in_locality": 180,
+      "search_growth": "+28%",
+      "conversion_rate": "4.5%"
+    }
+  },
+  {
+    "merchant_id": "m_pharmacies_109",
+    "name": "HealthFirst Pharmacy #10",
+    "vertical": "pharmacies",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_pharm_01",
+        "title": "Monsoon Immunity Booster Kit",
+        "original_price": 1200,
+        "discounted_price": 799,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1450,
+      "searches_in_locality": 190,
+      "search_growth": "+29%",
+      "conversion_rate": "5.0%"
+    }
+  },
+  {
+    "merchant_id": "m_dentists_110",
+    "name": "Apex Dental Clinic #11",
+    "vertical": "dentists",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_dent_01",
+        "title": "Dental Check Up",
+        "original_price": 2999,
+        "discounted_price": 299,
+        "active": true
+      },
+      {
+        "offer_id": "off_dent_02",
+        "title": "Teeth Whitening",
+        "original_price": 8000,
+        "discounted_price": 4999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1500,
+      "searches_in_locality": 200,
+      "search_growth": "+30%",
+      "conversion_rate": "3.0%"
+    }
+  },
+  {
+    "merchant_id": "m_salons_111",
+    "name": "Glow & Style Salon #12",
+    "vertical": "salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_sal_01",
+        "title": "Hair Spa & Haircut Combo",
+        "original_price": 2500,
+        "discounted_price": 999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1550,
+      "searches_in_locality": 210,
+      "search_growth": "+31%",
+      "conversion_rate": "3.5%"
+    }
+  },
+  {
+    "merchant_id": "m_restaurants_112",
+    "name": "Truffle & Slice Bistro #13",
+    "vertical": "restaurants",
+    "locality": "HSR Layout",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_rest_01",
+        "title": "Buy 1 Get 1 Pizza",
+        "original_price": 600,
+        "discounted_price": 300,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1600,
+      "searches_in_locality": 220,
+      "search_growth": "+32%",
+      "conversion_rate": "4.0%"
+    }
+  },
+  {
+    "merchant_id": "m_gyms_113",
+    "name": "FitNation Gym #14",
+    "vertical": "gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_gym_01",
+        "title": "3-Month Fitness Pass",
+        "original_price": 9000,
+        "discounted_price": 4499,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1650,
+      "searches_in_locality": 230,
+      "search_growth": "+33%",
+      "conversion_rate": "4.5%"
+    }
+  },
+  {
+    "merchant_id": "m_pharmacies_114",
+    "name": "HealthFirst Pharmacy #15",
+    "vertical": "pharmacies",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_pharm_01",
+        "title": "Monsoon Immunity Booster Kit",
+        "original_price": 1200,
+        "discounted_price": 799,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1700,
+      "searches_in_locality": 240,
+      "search_growth": "+34%",
+      "conversion_rate": "5.0%"
+    }
+  },
+  {
+    "merchant_id": "m_dentists_115",
+    "name": "Apex Dental Clinic #16",
+    "vertical": "dentists",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_dent_01",
+        "title": "Dental Check Up",
+        "original_price": 2999,
+        "discounted_price": 299,
+        "active": true
+      },
+      {
+        "offer_id": "off_dent_02",
+        "title": "Teeth Whitening",
+        "original_price": 8000,
+        "discounted_price": 4999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1750,
+      "searches_in_locality": 250,
+      "search_growth": "+35%",
+      "conversion_rate": "3.0%"
+    }
+  },
+  {
+    "merchant_id": "m_salons_116",
+    "name": "Glow & Style Salon #17",
+    "vertical": "salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_sal_01",
+        "title": "Hair Spa & Haircut Combo",
+        "original_price": 2500,
+        "discounted_price": 999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1800,
+      "searches_in_locality": 260,
+      "search_growth": "+36%",
+      "conversion_rate": "3.5%"
+    }
+  },
+  {
+    "merchant_id": "m_restaurants_117",
+    "name": "Truffle & Slice Bistro #18",
+    "vertical": "restaurants",
+    "locality": "HSR Layout",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_rest_01",
+        "title": "Buy 1 Get 1 Pizza",
+        "original_price": 600,
+        "discounted_price": 300,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1850,
+      "searches_in_locality": 270,
+      "search_growth": "+37%",
+      "conversion_rate": "4.0%"
+    }
+  },
+  {
+    "merchant_id": "m_gyms_118",
+    "name": "FitNation Gym #19",
+    "vertical": "gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_gym_01",
+        "title": "3-Month Fitness Pass",
+        "original_price": 9000,
+        "discounted_price": 4499,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1900,
+      "searches_in_locality": 280,
+      "search_growth": "+38%",
+      "conversion_rate": "4.5%"
+    }
+  },
+  {
+    "merchant_id": "m_pharmacies_119",
+    "name": "HealthFirst Pharmacy #20",
+    "vertical": "pharmacies",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_pharm_01",
+        "title": "Monsoon Immunity Booster Kit",
+        "original_price": 1200,
+        "discounted_price": 799,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 1950,
+      "searches_in_locality": 290,
+      "search_growth": "+39%",
+      "conversion_rate": "5.0%"
+    }
+  },
+  {
+    "merchant_id": "m_dentists_120",
+    "name": "Apex Dental Clinic #21",
+    "vertical": "dentists",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_dent_01",
+        "title": "Dental Check Up",
+        "original_price": 2999,
+        "discounted_price": 299,
+        "active": true
+      },
+      {
+        "offer_id": "off_dent_02",
+        "title": "Teeth Whitening",
+        "original_price": 8000,
+        "discounted_price": 4999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2000,
+      "searches_in_locality": 300,
+      "search_growth": "+40%",
+      "conversion_rate": "3.0%"
+    }
+  },
+  {
+    "merchant_id": "m_salons_121",
+    "name": "Glow & Style Salon #22",
+    "vertical": "salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_sal_01",
+        "title": "Hair Spa & Haircut Combo",
+        "original_price": 2500,
+        "discounted_price": 999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2050,
+      "searches_in_locality": 310,
+      "search_growth": "+41%",
+      "conversion_rate": "3.5%"
+    }
+  },
+  {
+    "merchant_id": "m_restaurants_122",
+    "name": "Truffle & Slice Bistro #23",
+    "vertical": "restaurants",
+    "locality": "HSR Layout",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_rest_01",
+        "title": "Buy 1 Get 1 Pizza",
+        "original_price": 600,
+        "discounted_price": 300,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2100,
+      "searches_in_locality": 320,
+      "search_growth": "+42%",
+      "conversion_rate": "4.0%"
+    }
+  },
+  {
+    "merchant_id": "m_gyms_123",
+    "name": "FitNation Gym #24",
+    "vertical": "gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_gym_01",
+        "title": "3-Month Fitness Pass",
+        "original_price": 9000,
+        "discounted_price": 4499,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2150,
+      "searches_in_locality": 330,
+      "search_growth": "+43%",
+      "conversion_rate": "4.5%"
+    }
+  },
+  {
+    "merchant_id": "m_pharmacies_124",
+    "name": "HealthFirst Pharmacy #25",
+    "vertical": "pharmacies",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_pharm_01",
+        "title": "Monsoon Immunity Booster Kit",
+        "original_price": 1200,
+        "discounted_price": 799,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2200,
+      "searches_in_locality": 340,
+      "search_growth": "+44%",
+      "conversion_rate": "5.0%"
+    }
+  },
+  {
+    "merchant_id": "m_dentists_125",
+    "name": "Apex Dental Clinic #26",
+    "vertical": "dentists",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_dent_01",
+        "title": "Dental Check Up",
+        "original_price": 2999,
+        "discounted_price": 299,
+        "active": true
+      },
+      {
+        "offer_id": "off_dent_02",
+        "title": "Teeth Whitening",
+        "original_price": 8000,
+        "discounted_price": 4999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2250,
+      "searches_in_locality": 350,
+      "search_growth": "+45%",
+      "conversion_rate": "3.0%"
+    }
+  },
+  {
+    "merchant_id": "m_salons_126",
+    "name": "Glow & Style Salon #27",
+    "vertical": "salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_sal_01",
+        "title": "Hair Spa & Haircut Combo",
+        "original_price": 2500,
+        "discounted_price": 999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2300,
+      "searches_in_locality": 360,
+      "search_growth": "+46%",
+      "conversion_rate": "3.5%"
+    }
+  },
+  {
+    "merchant_id": "m_restaurants_127",
+    "name": "Truffle & Slice Bistro #28",
+    "vertical": "restaurants",
+    "locality": "HSR Layout",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_rest_01",
+        "title": "Buy 1 Get 1 Pizza",
+        "original_price": 600,
+        "discounted_price": 300,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2350,
+      "searches_in_locality": 370,
+      "search_growth": "+47%",
+      "conversion_rate": "4.0%"
+    }
+  },
+  {
+    "merchant_id": "m_gyms_128",
+    "name": "FitNation Gym #29",
+    "vertical": "gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_gym_01",
+        "title": "3-Month Fitness Pass",
+        "original_price": 9000,
+        "discounted_price": 4499,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2400,
+      "searches_in_locality": 380,
+      "search_growth": "+48%",
+      "conversion_rate": "4.5%"
+    }
+  },
+  {
+    "merchant_id": "m_pharmacies_129",
+    "name": "HealthFirst Pharmacy #30",
+    "vertical": "pharmacies",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_pharm_01",
+        "title": "Monsoon Immunity Booster Kit",
+        "original_price": 1200,
+        "discounted_price": 799,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2450,
+      "searches_in_locality": 390,
+      "search_growth": "+49%",
+      "conversion_rate": "5.0%"
+    }
+  },
+  {
+    "merchant_id": "m_dentists_130",
+    "name": "Apex Dental Clinic #31",
+    "vertical": "dentists",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_dent_01",
+        "title": "Dental Check Up",
+        "original_price": 2999,
+        "discounted_price": 299,
+        "active": true
+      },
+      {
+        "offer_id": "off_dent_02",
+        "title": "Teeth Whitening",
+        "original_price": 8000,
+        "discounted_price": 4999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2500,
+      "searches_in_locality": 400,
+      "search_growth": "+50%",
+      "conversion_rate": "3.0%"
+    }
+  },
+  {
+    "merchant_id": "m_salons_131",
+    "name": "Glow & Style Salon #32",
+    "vertical": "salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_sal_01",
+        "title": "Hair Spa & Haircut Combo",
+        "original_price": 2500,
+        "discounted_price": 999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2550,
+      "searches_in_locality": 410,
+      "search_growth": "+51%",
+      "conversion_rate": "3.5%"
+    }
+  },
+  {
+    "merchant_id": "m_restaurants_132",
+    "name": "Truffle & Slice Bistro #33",
+    "vertical": "restaurants",
+    "locality": "HSR Layout",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_rest_01",
+        "title": "Buy 1 Get 1 Pizza",
+        "original_price": 600,
+        "discounted_price": 300,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2600,
+      "searches_in_locality": 420,
+      "search_growth": "+52%",
+      "conversion_rate": "4.0%"
+    }
+  },
+  {
+    "merchant_id": "m_gyms_133",
+    "name": "FitNation Gym #34",
+    "vertical": "gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_gym_01",
+        "title": "3-Month Fitness Pass",
+        "original_price": 9000,
+        "discounted_price": 4499,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2650,
+      "searches_in_locality": 430,
+      "search_growth": "+53%",
+      "conversion_rate": "4.5%"
+    }
+  },
+  {
+    "merchant_id": "m_pharmacies_134",
+    "name": "HealthFirst Pharmacy #35",
+    "vertical": "pharmacies",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_pharm_01",
+        "title": "Monsoon Immunity Booster Kit",
+        "original_price": 1200,
+        "discounted_price": 799,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2700,
+      "searches_in_locality": 440,
+      "search_growth": "+54%",
+      "conversion_rate": "5.0%"
+    }
+  },
+  {
+    "merchant_id": "m_dentists_135",
+    "name": "Apex Dental Clinic #36",
+    "vertical": "dentists",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_dent_01",
+        "title": "Dental Check Up",
+        "original_price": 2999,
+        "discounted_price": 299,
+        "active": true
+      },
+      {
+        "offer_id": "off_dent_02",
+        "title": "Teeth Whitening",
+        "original_price": 8000,
+        "discounted_price": 4999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2750,
+      "searches_in_locality": 450,
+      "search_growth": "+55%",
+      "conversion_rate": "3.0%"
+    }
+  },
+  {
+    "merchant_id": "m_salons_136",
+    "name": "Glow & Style Salon #37",
+    "vertical": "salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_sal_01",
+        "title": "Hair Spa & Haircut Combo",
+        "original_price": 2500,
+        "discounted_price": 999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2800,
+      "searches_in_locality": 460,
+      "search_growth": "+56%",
+      "conversion_rate": "3.5%"
+    }
+  },
+  {
+    "merchant_id": "m_restaurants_137",
+    "name": "Truffle & Slice Bistro #38",
+    "vertical": "restaurants",
+    "locality": "HSR Layout",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_rest_01",
+        "title": "Buy 1 Get 1 Pizza",
+        "original_price": 600,
+        "discounted_price": 300,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2850,
+      "searches_in_locality": 470,
+      "search_growth": "+57%",
+      "conversion_rate": "4.0%"
+    }
+  },
+  {
+    "merchant_id": "m_gyms_138",
+    "name": "FitNation Gym #39",
+    "vertical": "gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_gym_01",
+        "title": "3-Month Fitness Pass",
+        "original_price": 9000,
+        "discounted_price": 4499,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2900,
+      "searches_in_locality": 480,
+      "search_growth": "+58%",
+      "conversion_rate": "4.5%"
+    }
+  },
+  {
+    "merchant_id": "m_pharmacies_139",
+    "name": "HealthFirst Pharmacy #40",
+    "vertical": "pharmacies",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_pharm_01",
+        "title": "Monsoon Immunity Booster Kit",
+        "original_price": 1200,
+        "discounted_price": 799,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 2950,
+      "searches_in_locality": 490,
+      "search_growth": "+59%",
+      "conversion_rate": "5.0%"
+    }
+  },
+  {
+    "merchant_id": "m_dentists_140",
+    "name": "Apex Dental Clinic #41",
+    "vertical": "dentists",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_dent_01",
+        "title": "Dental Check Up",
+        "original_price": 2999,
+        "discounted_price": 299,
+        "active": true
+      },
+      {
+        "offer_id": "off_dent_02",
+        "title": "Teeth Whitening",
+        "original_price": 8000,
+        "discounted_price": 4999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 3000,
+      "searches_in_locality": 500,
+      "search_growth": "+0%",
+      "conversion_rate": "3.0%"
+    }
+  },
+  {
+    "merchant_id": "m_salons_141",
+    "name": "Glow & Style Salon #42",
+    "vertical": "salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_sal_01",
+        "title": "Hair Spa & Haircut Combo",
+        "original_price": 2500,
+        "discounted_price": 999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 3050,
+      "searches_in_locality": 510,
+      "search_growth": "+1%",
+      "conversion_rate": "3.5%"
+    }
+  },
+  {
+    "merchant_id": "m_restaurants_142",
+    "name": "Truffle & Slice Bistro #43",
+    "vertical": "restaurants",
+    "locality": "HSR Layout",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_rest_01",
+        "title": "Buy 1 Get 1 Pizza",
+        "original_price": 600,
+        "discounted_price": 300,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 3100,
+      "searches_in_locality": 520,
+      "search_growth": "+2%",
+      "conversion_rate": "4.0%"
+    }
+  },
+  {
+    "merchant_id": "m_gyms_143",
+    "name": "FitNation Gym #44",
+    "vertical": "gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_gym_01",
+        "title": "3-Month Fitness Pass",
+        "original_price": 9000,
+        "discounted_price": 4499,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 3150,
+      "searches_in_locality": 530,
+      "search_growth": "+3%",
+      "conversion_rate": "4.5%"
+    }
+  },
+  {
+    "merchant_id": "m_pharmacies_144",
+    "name": "HealthFirst Pharmacy #45",
+    "vertical": "pharmacies",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_pharm_01",
+        "title": "Monsoon Immunity Booster Kit",
+        "original_price": 1200,
+        "discounted_price": 799,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 3200,
+      "searches_in_locality": 540,
+      "search_growth": "+4%",
+      "conversion_rate": "5.0%"
+    }
+  },
+  {
+    "merchant_id": "m_dentists_145",
+    "name": "Apex Dental Clinic #46",
+    "vertical": "dentists",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_dent_01",
+        "title": "Dental Check Up",
+        "original_price": 2999,
+        "discounted_price": 299,
+        "active": true
+      },
+      {
+        "offer_id": "off_dent_02",
+        "title": "Teeth Whitening",
+        "original_price": 8000,
+        "discounted_price": 4999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 3250,
+      "searches_in_locality": 550,
+      "search_growth": "+5%",
+      "conversion_rate": "3.0%"
+    }
+  },
+  {
+    "merchant_id": "m_salons_146",
+    "name": "Glow & Style Salon #47",
+    "vertical": "salons",
+    "locality": "Koramangala",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_sal_01",
+        "title": "Hair Spa & Haircut Combo",
+        "original_price": 2500,
+        "discounted_price": 999,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 3300,
+      "searches_in_locality": 560,
+      "search_growth": "+6%",
+      "conversion_rate": "3.5%"
+    }
+  },
+  {
+    "merchant_id": "m_restaurants_147",
+    "name": "Truffle & Slice Bistro #48",
+    "vertical": "restaurants",
+    "locality": "HSR Layout",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_rest_01",
+        "title": "Buy 1 Get 1 Pizza",
+        "original_price": 600,
+        "discounted_price": 300,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 3350,
+      "searches_in_locality": 570,
+      "search_growth": "+7%",
+      "conversion_rate": "4.0%"
+    }
+  },
+  {
+    "merchant_id": "m_gyms_148",
+    "name": "FitNation Gym #49",
+    "vertical": "gyms",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_gym_01",
+        "title": "3-Month Fitness Pass",
+        "original_price": 9000,
+        "discounted_price": 4499,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 3400,
+      "searches_in_locality": 580,
+      "search_growth": "+8%",
+      "conversion_rate": "4.5%"
+    }
+  },
+  {
+    "merchant_id": "m_pharmacies_149",
+    "name": "HealthFirst Pharmacy #50",
+    "vertical": "pharmacies",
+    "locality": "Jayanagar",
+    "city": "Bengaluru",
+    "offers": [
+      {
+        "offer_id": "off_pharm_01",
+        "title": "Monsoon Immunity Booster Kit",
+        "original_price": 1200,
+        "discounted_price": 799,
+        "active": true
+      }
+    ],
+    "metrics": {
+      "weekly_views": 3450,
+      "searches_in_locality": 590,
+      "search_growth": "+9%",
+      "conversion_rate": "5.0%"
+    }
+  }
+]
